@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoElevateFuzzer", "UacFuzzer\AutoElevateFuzzer\AutoElevateFuzzer.vcproj", "{4E546A95-71E2-45DB-BC5D-0DED339001EE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoKillProcess", "UacFuzzer\AutoKillProcess\AutoKillProcess.vcproj", "{EC575FFB-245D-4811-A21F-FCB35078EEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E546A95-71E2-45DB-BC5D-0DED339001EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E546A95-71E2-45DB-BC5D-0DED339001EE}.Debug|Win32.Build.0 = Debug|Win32
+		{4E546A95-71E2-45DB-BC5D-0DED339001EE}.Release|Win32.ActiveCfg = Release|Win32
+		{4E546A95-71E2-45DB-BC5D-0DED339001EE}.Release|Win32.Build.0 = Release|Win32
+		{EC575FFB-245D-4811-A21F-FCB35078EEAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC575FFB-245D-4811-A21F-FCB35078EEAF}.Debug|Win32.Build.0 = Debug|Win32
+		{EC575FFB-245D-4811-A21F-FCB35078EEAF}.Release|Win32.ActiveCfg = Release|Win32
+		{EC575FFB-245D-4811-A21F-FCB35078EEAF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
